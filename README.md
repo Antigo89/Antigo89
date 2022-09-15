@@ -13,4 +13,37 @@
 <div align="center">
   <img src="https://github.com/Antigo89/Antigo89/blob/main/Dragon_Reading.png" height="100%">
 </div>
-### :man_technologist:
+
+Über mich:
+
+
+---
+:hammer_and_wrench: Meine Programmiersprachen:
+<div id="language">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SpringBoot" alt="SringBoot" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>
+  
+</div>
+
+:hammer_and_wrench: Meine Technologien:
+<div id="technology">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Antigo89/Antigo89/blob/main/stm32icon.svg" title="STM32" alt="STM32" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>
+</div>
+
+
+:hammer_and_wrench: Meine Tools:
+<div id="tools">
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>
+</div>
