@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Antigo89/Antigo89/blob/main/Rysya_shar.png" width="200">
+  <img src="https://github.com/Antigo89/Antigo89/blob/main/Antigo_cherry.png" width="200">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mshchenin/?locale=en_US">
