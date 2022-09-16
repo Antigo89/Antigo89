@@ -37,6 +37,7 @@
 :hammer_and_wrench: Meine Tools:
 <div id="tools">
   <img src="https://github.com/Antigo89/Antigo89/blob/main/CubeIDE%20icons.png" title="CubeIDE" alt="CubeIDE" width="40" height="40"/>&nbsp;
+  <img src="(https://github.com/Antigo89/Antigo89/blob/main/eclipse_icon.png" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
