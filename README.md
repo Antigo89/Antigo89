@@ -39,16 +39,15 @@
 
 :hammer_and_wrench: Meine Tools:
 <div id="tools">
-  IDE
+  <h3>IDE<h3/>
   <img src="https://github.com/Antigo89/Antigo89/blob/main/CubeIDE%20icons.png" title="CubeIDE" alt="CubeIDE" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Antigo89/Antigo89/blob/main/eclipse_icon.png" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  Compiler
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
   Connect
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
   Other
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="40" height="40"/>
 </div>
