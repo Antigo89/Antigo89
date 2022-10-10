@@ -50,6 +50,6 @@
 </div>
 
 ---
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antigo89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Antigo89&theme=dark&hide_border=true&border_radius=10&locale=de)](https://git.io/streak-stats)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antigo89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KAntigo89&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
