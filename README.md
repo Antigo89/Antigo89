@@ -19,7 +19,7 @@
 :zap:Ich bin Elektroniker. Ich beschäftige mich mit der Montage und Entwicklung von eingebetteten Mikrocontroller-Geräten.
 Ich interessiere mich auch für IoT, 3D-Druck und Anwendungsentwicklung.
 
-:grey_exclamation: Ich habe vor kurzem begonnen, GitHub zu verwenden und zu entwerfen.
+:grey_exclamation: *Ich habe vor kurzem begonnen, GitHub zu verwenden und zu entwerfen.*
 
 ---
 :pencil2: Meine Programmiersprachen:
