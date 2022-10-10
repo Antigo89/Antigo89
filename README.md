@@ -56,5 +56,16 @@ Ich interessiere mich auch für IoT, 3D-Druck und Anwendungsentwicklung.
 ---
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antigo89&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=onedark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=merko)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=gruvbox)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=tokyonight)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=cobalt)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=synthwave)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=highcontrast)
+ 
  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Antigo89&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
