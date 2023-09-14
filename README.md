@@ -35,6 +35,7 @@ Ich interessiere mich auch für IoT, 3D-Druck und Anwendungsentwicklung.
 <div id="technology">
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Antigo89/Antigo89/blob/main/stm32icon.svg" title="STM32" alt="STM32" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="RPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Antigo89/Antigo89/blob/main/Windows.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   
