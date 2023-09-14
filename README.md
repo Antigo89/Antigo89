@@ -5,7 +5,11 @@
   <a href="https://www.linkedin.com/in/mshchenin/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
+  <a href="https://u.easyeda.com/account/user/projects/all">
+    <img src="https://github.com/Antigo89/Antigo89/blob/main/EasyEDA.PNG">
+  </a>
 </div>
+
 <h1 align="center">
   👋 Guten Tag mein neugieriger Freund! 
 </h1>
@@ -25,8 +29,10 @@ Ich interessiere mich auch für IoT, 3D-Druck und Anwendungsentwicklung.
 :pencil2: Meine Programmiersprachen:
 <div id="language">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="CEmbedded" alt="CEmb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SpringBoot" alt="SringBoot" width="40" height="40"/>
 </div>
