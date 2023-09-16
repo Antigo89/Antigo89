@@ -68,4 +68,4 @@ Ich interessiere mich auch für IoT, 3D-Druck und Anwendungsentwicklung.
  
  **Statistiken auf anderen Websites**
 
- <div hidden>[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Antigo89&theme=dark)](https://github.com/KnlnKS/leetcode-stats)</div>
+ <div hidden[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Antigo89&theme=dark)](https://github.com/KnlnKS/leetcode-stats)></div>
