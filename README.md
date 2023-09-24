@@ -11,19 +11,22 @@
 </div>
 
 <h1 align="center">
-  👋 Guten Tag mein neugieriger Freund! 
+  👋 Hello engineer.
+</h1>
+<h1 align="center">
+Welcome to my code warehouse. 
 </h1>
 
 <div align="center">
   <img src="https://github.com/Antigo89/Antigo89/blob/main/Dragon_Reading.png" height="100%">
 </div>
 
-Über mich:
+Briefly about me:
 
-:zap:Ich bin Elektroniker. Ich beschäftige mich mit der Montage und Entwicklung von eingebetteten Mikrocontroller-Geräten.
-Ich interessiere mich auch für IoT, 3D-Druck und Anwendungsentwicklung.
+:zap:Ich bin Elektroniker. I am an electronics engineer. I study and develop embedded microcontrollers.
+I am also interested in Internet of Things, 3D printing and application development.
 
-:grey_exclamation: *Ich habe vor kurzem begonnen, GitHub zu verwenden und zu entwerfen.*
+:grey_exclamation: *I rarely write about myself and sometimes fill this page.*
 
 ---
 :pencil2: Meine Programmiersprachen:
@@ -61,11 +64,11 @@ Ich interessiere mich auch für IoT, 3D-Druck und Anwendungsentwicklung.
 </div>
 
 ---
- **GitHub-Statistiken**
+ **GitHub-Statistics**
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antigo89&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=merko)
  
- **Statistiken auf anderen Websites**
+ **Statistics on other sites.**
 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Antigo89&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
