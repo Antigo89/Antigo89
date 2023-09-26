@@ -70,5 +70,6 @@ I am also interested in Internet of Things, 3D printing and application developm
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=merko)
  
  **Statistics on other sites.**
+ https://www.codewars.com/users/Antigo89/badges/small
 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Antigo89&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
