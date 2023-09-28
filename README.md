@@ -23,13 +23,13 @@ Welcome to my code warehouse.
 
 Briefly about me:
 
-:zap:Ich bin Elektroniker. I am an electronics engineer. I study and develop embedded microcontrollers.
+:zap:I am an electronics engineer. I study and develop embedded microcontrollers.
 I am also interested in Internet of Things, 3D printing and application development.
 
 :grey_exclamation: *I rarely write about myself and sometimes fill this page.*
 
 ---
-:pencil2: Meine Programmiersprachen:
+:pencil2: Mein Programming Language:
 <div id="language">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="CEmbedded" alt="CEmb" width="40" height="40"/>&nbsp;
@@ -67,7 +67,7 @@ I am also interested in Internet of Things, 3D printing and application developm
  **GitHub-Statistics**
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antigo89&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=merko)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&count_private=true&show_icons=true&theme=merko)
  
  **Statistics on other sites.**
  <!-- https://www.codewars.com/users/Antigo89/badges/small -->
