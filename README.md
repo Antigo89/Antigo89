@@ -50,19 +50,6 @@ I am also interested in Internet of Things, 3D printing and application developm
   
 </div>
 
-
-:hammer_and_wrench: Meine Tools:
-<div id="tools">
-  <img src="https://github.com/Antigo89/Antigo89/blob/main/CubeIDE%20icons.png" title="CubeIDE" alt="CubeIDE" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Antigo89/Antigo89/blob/main/eclipse_icon.png" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" buckgroung=green width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="40" height="40"/>
-</div>
-
 ---
  **GitHub-Statistics**
  
