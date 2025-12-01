@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/mshchenin/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://u.easyeda.com/account/user/projects/all">
-    <img src="https://github.com/Antigo89/Antigo89/blob/main/EasyEDA.PNG">
-  </a>
 </div>
 
 <h1 align="center">
@@ -53,9 +50,9 @@ I am also interested in Internet of Things, 3D printing and application developm
 ---
  **GitHub-Statistics**
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antigo89&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=merko)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
  
- **Statistics on other sites.**
+ <!-- **Statistics on other sites.** -->
  <!-- https://www.codewars.com/users/Antigo89/badges/small -->
 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Antigo89&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
