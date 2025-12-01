@@ -52,7 +52,7 @@ I am also interested in Internet of Things, 3D printing and application developm
 
 ---
  **GitHub-Statistics**
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antigo89&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antigo89&show_icons=true&theme=merko)
  
